@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MeuTodo</name>
+    </assembly>
+    <members>
+        <member name="M:TodoController.GetAsync(AppDbContext)">
+            <summary>
+            Obter todos os eventos
+            </summary>
+            <returns>Coleção de eventos</returns>
+            <response code="200">Sucesso</response>
+        </member>
+        <member name="T:MeuTodo.Migrations.InitalCreation">
+            <inheritdoc />
+        </member>
+        <member name="M:MeuTodo.Migrations.InitalCreation.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:MeuTodo.Migrations.InitalCreation.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:MeuTodo.Migrations.InitalCreation.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:MeuTodo.Migrations.AddDateTime">
+            <inheritdoc />
+        </member>
+        <member name="M:MeuTodo.Migrations.AddDateTime.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:MeuTodo.Migrations.AddDateTime.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:MeuTodo.Migrations.AddDateTime.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

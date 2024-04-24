@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MeuTodo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c17dde0111fe73f6e67d3ad0df2fd2d3e89f5b6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeuTodo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeuTodo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

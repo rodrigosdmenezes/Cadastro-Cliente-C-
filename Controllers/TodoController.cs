@@ -5,8 +5,13 @@ using Microsoft.EntityFrameworkCore;
 [Route(template: "v1")]
 public class TodoController : ControllerBase
 {
-
+    /// <summary>
+    /// Obter todos os eventos
+    /// </summary>
+    /// <returns>Coleção de eventos</returns>
+    /// <response code="200">Sucesso</response>
     [HttpGet(template: "todos")]
+    [ProducesResponseType(StatusCodes.Status200OK)]
     public async Task<IActionResult> GetAsync(
         [FromServices] AppDbContext context)
     {

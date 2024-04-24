@@ -125,3 +125,11 @@ C:\Users\rsouz\MeuTodo\MeuTodo\obj\Debug\net8.0\refint\MeuTodo.dll
 C:\Users\rsouz\MeuTodo\MeuTodo\obj\Debug\net8.0\MeuTodo.pdb
 C:\Users\rsouz\MeuTodo\MeuTodo\obj\Debug\net8.0\MeuTodo.genruntimeconfig.cache
 C:\Users\rsouz\MeuTodo\MeuTodo\obj\Debug\net8.0\ref\MeuTodo.dll
+C:\Users\rsouz\MeuTodo\MeuTodo\obj\Debug\net8.0\MeuTodo.sourcelink.json
+C:\Users\rsouz\MeuTodo\MeuTodo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\rsouz\MeuTodo\MeuTodo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rsouz\MeuTodo\MeuTodo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rsouz\MeuTodo\MeuTodo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rsouz\MeuTodo\MeuTodo\obj\Debug\net8.0\MeuTodo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rsouz\MeuTodo\MeuTodo\bin\Debug\net8.0\MeuTodo.xml
+C:\Users\rsouz\MeuTodo\MeuTodo\obj\Debug\net8.0\MeuTodo.xml
